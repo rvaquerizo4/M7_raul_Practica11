@@ -3,3 +3,5 @@
 2023-02-21 20:00:11.048 [info] [UtilityProcess id: 1, type: extensionHost, pid: 50270]: successfully created
 2023-02-21 20:00:33.529 [info] update#setState checking for updates
 2023-02-21 20:00:33.539 [info] update#setState idle
+2023-02-21 20:06:42.468 [info] [UtilityProcess id: 1, type: extensionHost, pid: 50270]: received exit event with code 0
+2023-02-21 20:06:42.505 [info] Extension host with pid 50270 exited with code: 0, signal: unknown.
